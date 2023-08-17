@@ -1,8 +1,8 @@
 <div align="center">
     <div class="header">
         <p>
-            <h1 style="display:inline;text-size:24px;"> Simple Keypad</h2>
-            <span style="float:right">Using UI!</span>
+            <h1 style="display:inline;text-size:24px;"> Jumbotron</h2>
+            <span style="float:right">Camera Targets, and the need to follow them!</span>
         </p>
     </div>
     <!-- build status badges here thanks -->
