@@ -29,14 +29,21 @@ A project with the latest VRChat SDK3 Release- can be found below:
 
 ## How it works
 Set a Target for the Camera to follow, inside of [Camera Target Follower Script]
+
 Target: Current target the camera will swap to, leave this blank.
+
 Targets Array: A list of Objects the camera will follow.
 
 Rotation Speed: Camera Rotation Speed
+
 Zoom Speed: How fast the Camera will Zoom
+
 Max & Min Zoom Distance: ... The Maximum & Minimum distance the Camera will zoom.
+
 Target Switch Interval: How often the Camera will swap to a new Target.
+
 Zoom Out Time: Time it will take for the Camera to zoom out..
+
 ```
 $ ./That one time at band camp.
 ```
